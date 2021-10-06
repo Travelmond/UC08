@@ -1,0 +1,11 @@
+
+Sistema para cadastro de peças
+
+-Criar lista Array de peças;
+-Checar limite de no máximo 10 itens na Array;
+-Checar o peso da peça (mínimo 100g);
+-Checar quantidade de caracteres do nome da peça(Mínimo 3)
+
+
+
+
