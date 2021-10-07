@@ -1,0 +1,9 @@
+Atividade do encontro remoto 2 da UC8 - Lógica de Programação.
+
+Situação problema:
+
+ - Percorrer de ZERO até o nº total de alunos, onde:
+
+se o nº for par, escreva "par" e o nº correspondente;
+se o nº for ímpar, escreva "ímpar" e o nº correspondente;
+se o nº for zero, escreva "zero".
